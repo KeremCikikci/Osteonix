@@ -38,3 +38,4 @@ The model detects and categorizes various bone conditions based on the BTXRD dat
 * **Language:** Python
 
 ---
+<img width="2861" height="1708" alt="Screenshot 2026-09-18 164547" src="https://github.com/user-attachments/assets/0ae22b5d-0c42-4f62-a2db-269a1c306d76" />
